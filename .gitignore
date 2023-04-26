@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+**/bin/
+**/obj/
+*.vs
+/packages
+Hardware/SigurTester/Logs/
+DataService/Logs/
+SigurService/SigurService/Logs/
+**/*.DotSettings.user
+**/*.csproj.user
+**/*cs.orig
+**/.editorconfig
+**/*.pubxml.user
